@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kurs_c\Homework_6\bin\Debug\net7.0\Homework_6.exe
+C:\Users\Admin\Desktop\kurs_c\Homework_6\bin\Debug\net7.0\Homework_6.deps.json
+C:\Users\Admin\Desktop\kurs_c\Homework_6\bin\Debug\net7.0\Homework_6.runtimeconfig.json
+C:\Users\Admin\Desktop\kurs_c\Homework_6\bin\Debug\net7.0\Homework_6.dll
+C:\Users\Admin\Desktop\kurs_c\Homework_6\bin\Debug\net7.0\Homework_6.pdb
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.dll
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\refint\Homework_6.dll
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.pdb
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\Homework_6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\kurs_c\Homework_6\obj\Debug\net7.0\ref\Homework_6.dll
